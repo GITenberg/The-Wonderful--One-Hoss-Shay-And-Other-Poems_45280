@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/387
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45280#The-Wonderful--One-Hoss-Shay-And-Other-Poems
 gutenberg_issued: '2014-03-31'
 gutenberg_type: Text
 identifiers:
