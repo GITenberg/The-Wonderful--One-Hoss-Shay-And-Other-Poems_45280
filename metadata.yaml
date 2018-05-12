@@ -1,0 +1,34 @@
+_repo: The-Wonderful--One-Hoss-Shay-And-Other-Poems_45280
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McIlvaine, Thomas
+    gutenberg_agent_id: '47449'
+    url: http://www.gutenberg.org/2009/agents/47449
+covers:
+- cover_type: archival
+  image_path: 45280-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holmes, Oliver Wendell
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '387'
+    url: http://www.gutenberg.org/2009/agents/387
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
+description: ''
+gutenberg_issued: '2014-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45280'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 19th century'
+tableOfContents: The deacon's masterpiece; or, the wonderful "one-hoss-shay" -- On
+  lending a punch bowl -- The last leaf -- The star and the water-lily.
+title: The Wonderful "One-Hoss-Shay", and Other Poems
+url: http://www.gutenberg.org/ebooks/45280
